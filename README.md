@@ -1,5 +1,5 @@
 # ProjetoSlider
- Controle deslizande de imagens
+## Controle deslizande de imagens
 
  Este projeto foi realizado com Rodolfo do DevClub [Acesso a aula](https://www.youtube.com/watch?v=7RBmpBuX68k)
 
